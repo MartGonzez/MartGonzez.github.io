@@ -3,3 +3,26 @@
 * {
     font-family: "Roboto", serif;
 }
+
+#info {
+    display: flex;
+    justify-content: space-between
+}
+
+.info_img{
+    width: 750px
+}
+
+.div_me{
+  padding:50px;
+}
+
+.div_me p{
+    font-size:25px;
+}
+
+.titulo{
+    padding-bottom:30px;
+    font-size:40px;
+    color:red;
+}
