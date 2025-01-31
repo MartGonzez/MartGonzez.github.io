@@ -4,13 +4,14 @@
     font-family: "Roboto", serif;
 }
 
-#info {
+.base {
+    margin-top:100px;
     display: flex;
     justify-content: space-between
 }
 
 .info_img{
-    width: 750px
+    width: 750px;
 }
 
 .div_me{
@@ -25,4 +26,21 @@
     padding-bottom:30px;
     font-size:40px;
     color:red;
+}
+
+#exp_sec{
+    margin-top:100px;
+
+}
+
+#exp_sec h2{
+    text-align:center;
+}
+
+.exp_dis {
+    padding-top:100px;
+    padding-right: 75px;
+    padding-left: 75px;
+    display: flex;
+    justify-content: space-between;
 }
