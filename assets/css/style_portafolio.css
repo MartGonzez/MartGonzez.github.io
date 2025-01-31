@@ -1,0 +1,26 @@
+#nav div h2{
+    color:red;
+}
+#nav div strong{
+    color:#212529;
+}
+
+.col{
+    padding:30px;
+}
+
+.col div {
+    padding-bottom:10px;
+    padding-top:30px;
+    background-color: #212529;
+}
+
+.img{
+    width:500px;
+    height:500px;
+}
+
+#exception{
+    margin-right:320px;
+    margin-left:320px;
+}
